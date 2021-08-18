@@ -1,5 +1,5 @@
 # Predict diabetes of patients from a dataset using Python
-Model that Predicts diabetes of patients from a dataset using Python.
+Model that Predicts diabetes of patients from a dataset using Python, check the above Notebook for more information.
 
 ## Problem Statement:
 
