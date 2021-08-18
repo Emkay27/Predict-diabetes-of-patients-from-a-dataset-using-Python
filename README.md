@@ -26,4 +26,4 @@ Decison Tree's accuracy score: 77.05627705627705%
 
 ## Visualization:
 
-<!-- ![](visualization1.png) -->
+![](visualization1.png)
