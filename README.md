@@ -22,7 +22,7 @@ node contains all of, or most of, one category of the data.Training a machine le
 
 ## Prediction Accuracy Score:
 
-Decison Tree's accuracy score: 77.05627705627705%
+Decision Tree's accuracy score: 77.05627705627705%
 
 ## Visualization:
 
